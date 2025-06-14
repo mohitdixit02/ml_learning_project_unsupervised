@@ -60,10 +60,10 @@ python main.py
 </ol>
 
 ## References
-<p>Sample Images in the input folder are taken from following source:</p>
+<p>Sample Images in the input folder are taken from following sources:</p>
 <ol>
-    <li><strong>"bird.jpg" - </strong>used in image color reduction - <a href="https://unsplash.com/photos/a-couple-of-colorful-birds-Mkv2aKWHx00?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash">Source</a></li>
-    <li><strong>"sign.jpg" - </strong>used in text enhancement - <a href="https://elements-resized.envatousercontent.com/elements-cover-images/da9b30a5-7823-49ee-9440-1fa73c689ae7?w=2038&cf_fit=scale-down&q=85&format=auto&s=c663a4d16707d1c1e73707539a5d3227f42cca8ce3ca9d934a09300c070c2197">Source</a></li>
+    <li><strong>"bird.jpg" - </strong>used in image color reduction - <a href="https://unsplash.com/photos/a-couple-of-colorful-birds-Mkv2aKWHx00?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash">source</a></li>
+    <li><strong>"sign.jpg" - </strong>used in text enhancement - <a href="https://elements-resized.envatousercontent.com/elements-cover-images/da9b30a5-7823-49ee-9440-1fa73c689ae7?w=2038&cf_fit=scale-down&q=85&format=auto&s=c663a4d16707d1c1e73707539a5d3227f42cca8ce3ca9d934a09300c070c2197">source</a></li>
 </ol>
 
 <h4>- Thanks -</h4>
